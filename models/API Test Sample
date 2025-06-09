@@ -1,0 +1,14 @@
+api
+
+{
+  "title": "Submit project report",
+  "description": "Complete the final report and submit to supervisor"
+}
+
+Response:
+{
+  "title": "Submit project report",
+  "description": "Complete the final report...",
+  "aiSummary": "Summarize project and submit",
+  "aiPriority": "High"
+}
